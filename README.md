@@ -1,4 +1,6 @@
 # Manjaro to Arch conversion script
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsugkiy%2FManjarotoArch.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsugkiy%2FManjarotoArch?ref=badge_shield)
+
 
 This is a script to convert a Manjaro installation to an Arch installation with a single command.<br>The original version is [this gist](https://gist.github.com/mariuszkurek/bff8a821076f5406b15fe9be528957b6/) which did work but wasn't seamless, and this script follows the GPLv2 license in the original script.
 
@@ -27,3 +29,7 @@ The screen goes gray after rebooting after running this script.<br>As far as I h
 - [x] Ask which kernel version is to be installed
 
 - [ ] Manjaro Sway community edition support
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsugkiy%2FManjarotoArch.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsugkiy%2FManjarotoArch?ref=badge_large)
